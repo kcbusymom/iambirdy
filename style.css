@@ -1,5 +1,6 @@
 body {background: #ffffff; margin: 0; padding: 0;}
 a {color: #2b2bf6;}
+h1 {text-align:center;}
 #container {width: 900px; margin: 0; padding: 0; background: #dddddd;}
 #header {width: 900px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #f346e1;}
 #header p{text-align: center}
